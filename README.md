@@ -2,7 +2,7 @@
 ## Skírsla
 Bjarki freyr ragnarsson
 
-
+'eg
 línkur:https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino 
 
 Video linkur:file:///C:/Users/Notandi/Downloads/20230417_114712_1_1.mp4 
