@@ -2,7 +2,7 @@
 ## Skírsla
 Bjarki freyr ragnarsson
 
-Hér eru myndir sem sína Simon says spilið og svg file mynd en það er einnig vídio í öðru skjali sem sínir hvernig spilið er á innan en það er ekki sínt hvernig það v 
+Hér eru myndir sem sína Simon says spilið,svg file mynd og vídio.
 
 línkur:https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino 
 
