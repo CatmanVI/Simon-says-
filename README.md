@@ -2,10 +2,11 @@
 ## Skírsla
 Bjarki freyr ragnarsson
 
-'eg
+Hér eru myndir sem sína Simon says spilið og svg file mynd en það er einnig vídio í öðru skjali sem sínir hvernig spilið er á innan en það er ekki sínt hvernig það v 
+
 línkur:https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino 
 
-Video linkur:file:///C:/Users/Notandi/Downloads/20230417_114712_1_1.mp4 
+Video linkur:[file:///C:/Users/Notandi/Downloads/20230417_114712_1_1.mp4](https://www.youtube.com/shorts/eqxDUyDtONI) 
 
 ![20230417_114703](https://user-images.githubusercontent.com/130507297/232484199-2f858536-1023-428a-b7c5-e63a9fe58cdc.jpg)
 
