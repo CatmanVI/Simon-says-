@@ -1,5 +1,7 @@
 # Simon-says-
 ## Skírsla
+Bjarki freyr ragnarsson
+
 
 línkur:https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino 
 
